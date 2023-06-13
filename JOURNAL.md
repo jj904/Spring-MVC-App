@@ -7,15 +7,16 @@
 
 <h2>1. About The Starbucks Project</h2>
 <img width="400" alt="Logo" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/f8184b33-460f-4f64-bc79-91828eb129a4">
+<br>
 This is a comprehensive project by applying the labs learned in CMPE172. The Starbucks project consists of a multi-component, multi-layered, end-to-end system.<br><br>
-The system of the Starbucks app is as follows.
-* Cashier' App- Cashiers helps place the customer's order. 
-* Starbuck App- Mobile app to pay for customer orders 
-* Starbucks API- Process requests from both the Cashier's and Starbucks apps.
+The system of the Starbucks app is as follows.<br>
+- Cashier' App- Cashiers helps place the customer's order. 
+- Starbuck App- Mobile app to pay for customer orders 
+- Starbucks API- Process requests from both the Cashier's and Starbucks apps.
 
 
 <h2>2. Cashier's App</h2>
-* Spring-cashier
+- Spring-cashier
 To complete the partial demo, the only file used is spring-cashier. The code I added can be found in the /project/spring-cashier app in my GitHub repository. I've completed pages with this each function..
 
 1) Login page
