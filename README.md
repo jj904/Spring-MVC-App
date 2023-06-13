@@ -33,8 +33,9 @@ To complete the partial demo, the only file used is spring-cashier. The code I a
 
 <h2>3. Architecture</h2>
 
-### Architecture that I used ..
+<img width="973" alt="Screenshot 2023-06-12 at 6 50 56 PM" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/3baff368-ea04-4285-b359-6b3e9bf1c1ba">
 <img width="461" alt="p2" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/57c38790-c9af-4d4e-abf9-0127ac192c4f">
+
 <br><br>
 
 ### In this Project I used.. 
