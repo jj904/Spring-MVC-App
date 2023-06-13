@@ -10,9 +10,9 @@
 <br>
 This is a comprehensive project by applying the labs learned in CMPE172. The Starbucks project consists of a multi-component, multi-layered, end-to-end system.<br><br>
 The system of the Starbucks app is as follows.<br>
-- Cashier' App- Cashiers helps place the customer's order. 
-- Starbuck App- Mobile app to pay for customer orders 
-- Starbucks API- Process requests from both the Cashier's and Starbucks apps.
+- Cashier' App- Cashiers helps place the customer's order <br>
+- Starbuck App- Mobile app to pay for customer orders <br>
+- Starbucks API- Process requests from both the Cashier's and Starbucks apps <br>
 
 
 <h2>2. Cashier's App</h2>
