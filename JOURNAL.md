@@ -6,7 +6,7 @@
 [Project Demo](https://www.youtube.com/watch?v=ywEJ_E0ujvc)
 
 <h2>1. About The Starbucks Project</h2>
-![Screenshot 2023-05-21 at 4 33 30 PM](https://github.com/jj904/Spring-MVC-App/assets/57935131/cdb22542-1f14-4c7b-96df-383d5f59b2b8)
+<img width="400" alt="Logo" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/f8184b33-460f-4f64-bc79-91828eb129a4">
 This is a comprehensive project by applying the labs learned in CMPE172. The Starbucks project consists of a multi-component, multi-layered, end-to-end system.<br><br>
 The system of the Starbucks app is as follows.
 * Cashier' App- Cashiers helps place the customer's order. 
