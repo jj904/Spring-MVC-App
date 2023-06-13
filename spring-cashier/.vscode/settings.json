@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "yaml.schemas": {
+        "https://json.schemastore.org/sourcehut-build-0.65.0.json": "file:///Users/gaeunjung/cmpe172-jj904/project/spring-cashier/kubernetes/deployment.yaml"
+    }
+}
