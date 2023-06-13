@@ -203,19 +203,19 @@ curl http://spring-cashier-service:8080
 <br><br>
 
 ### spring-cashier Starbucks with Load Balacner
-* Place Order and Generate Random Order
-<img width="1140" alt="Screenshot 2023-05-22 at 9 30 30 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/0d26068c-bfbb-4c89-a036-7d30a38fcf1e">
-<img width="1143" alt="Screenshot 2023-05-22 at 9 30 39 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/422e25d9-5000-4340-b856-5138546003ae">
+* Place Order and 1st Generate Random Order
+<img width="1140" alt="RO1" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/d617bb98-fc24-47ba-a6eb-619f27fe71da">
+<img width="1143" alt="RO2" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/ac89d45e-bd9a-484f-9872-e0827a7a173f">
+
 <br><br>
 
-* Place Order with other store ans Generate Random Order
-<img width="1140" alt="Screenshot 2023-05-22 at 9 30 48 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/e11eb1b8-63ac-42be-be76-1afacb3f7a22">
-<img width="1142" alt="Screenshot 2023-05-22 at 9 30 57 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/a7ca16d6-4c21-4a44-8e09-b9aa8a419644">
+* Place Order with 2nd store and Generate Random Order
+<img width="1140" alt="RO3" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/951519e4-8472-4440-824d-389e4c2e070d">
+<img width="1142" alt="RO4" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/7fe29118-7813-48e1-9e59-dc2c82fb7dba">
 <br><br>
 
 ### Log from spring-cashier deloyment
-<img width="1142" alt="Screenshot 2023-05-22 at 9 32 33 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/56b3f6c3-79fd-40de-9589-dbe465dc7120">
-
+<img width="1142" alt="log_deploy" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/401c8a1c-8185-43f8-aba3-b7a31d514e83">
 
 
 
