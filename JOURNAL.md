@@ -34,7 +34,7 @@ To complete the partial demo, the only file used is spring-cashier. The code I a
 <h2>3. Architecture</h2>
 
 ### Architecture that I used ..
-<img width="461" alt="Screenshot 2023-05-22 at 10 26 15 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/a7c8b817-c064-4453-b1b8-89862904841e">
+<img width="461" alt="Screenshot 2023-05-22 at 10 26 15 PM" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/597defa4-0581-48e2-8c6d-e5d6f8121b0b">
 <br><br>
 
 ### In this Project I used.. 
