@@ -38,7 +38,7 @@ To complete the partial demo, the only file used is spring-cashier. The code I a
 
 <br><br>
 
-### In this Project I used.. 
+## Tools for this project:
 - JAVA
 - SPRING
 - MYSQL
@@ -47,6 +47,7 @@ To complete the partial demo, the only file used is spring-cashier. The code I a
 - GOOGLE CLOUD
 - RABBITMQ
 - HTML/CSS/JS
+
 
 <h2>4. Getting Started</h2>
 
