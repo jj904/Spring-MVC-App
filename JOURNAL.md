@@ -10,9 +10,9 @@
 <br>
 This is a comprehensive project by applying the labs learned in CMPE172. The Starbucks project consists of a multi-component, multi-layered, end-to-end system.<br><br>
 The system of the Starbucks app is as follows.<br>
-- Cashier' App- Cashiers helps place the customer's order <br>
-- Starbuck App- Mobile app to pay for customer orders <br>
-- Starbucks API- Process requests from both the Cashier's and Starbucks apps <br>
+- Cashier' App:  Cashiers helps place the customer's order <br>
+- Starbuck App:  Mobile app to pay for customer orders <br>
+- Starbucks API: Process requests from both the Cashier's and Starbucks apps <br>
 
 
 <h2>2. Cashier's App</h2>
@@ -34,7 +34,7 @@ To complete the partial demo, the only file used is spring-cashier. The code I a
 <h2>3. Architecture</h2>
 
 ### Architecture that I used ..
-<img width="461" alt="Screenshot 2023-05-22 at 10 26 15 PM" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/597defa4-0581-48e2-8c6d-e5d6f8121b0b">
+<img width="461" alt="p2" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/57c38790-c9af-4d4e-abf9-0127ac192c4f">
 <br><br>
 
 ### In this Project I used.. 
@@ -152,12 +152,12 @@ curl http://spring-cashier-service:8080
 
 ### Docker Hub
 * Successed to push docker images to the docker hub
-<img width="986" alt="Screenshot 2023-05-22 at 9 19 13 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/f45eabf5-5dbc-4ff4-bbac-9fc60e18d8dd">
-<img width="1073" alt="Screenshot 2023-05-22 at 9 19 27 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/d09ca20e-d594-4a66-a2cc-e3e02dfbf95c">
+<img width="1073" alt="p4" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/7ffd7896-e046-4520-95da-0faff6982190">
+
 
 ### MySQL on GKE
-<img width="1141" alt="Screenshot 2023-05-22 at 9 25 04 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/29bd8aa9-4502-4e5c-abb7-51dce540e97a">
-<img width="1141" alt="Screenshot 2023-05-22 at 9 25 16 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/006654a2-31e6-49eb-9ef6-abd7d6568ac9">
+<img width="1141" alt="Q3" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/fb9438e6-9d40-43d7-acdd-1914dd0e234a">
+<img width="1141" alt="Q5" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/5f709fc7-8a97-4c6c-8342-9971a4d3a348">
 
 
 <br><br>
@@ -165,40 +165,41 @@ curl http://spring-cashier-service:8080
 
 ### In My GKE Cluster
 * Workloads showing healthy
-<img width="1139" alt="Screenshot 2023-05-22 at 9 26 21 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/45e919b4-69af-48af-9c9b-08a98e2b80a5">
-<br><br>
+<img width="1142" alt="WD1" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/8c5f91a8-8847-4881-9f34-6e9e52043e42">
+
 
 * Services and Ingress(with Public LB IP address) showing healthy
-<img width="1139" alt="Screenshot 2023-05-22 at 9 26 30 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/c64b0e76-a701-4592-86cd-2ba7a810325c">
-<img width="1142" alt="Screenshot 2023-05-22 at 9 26 38 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/bda768d5-b103-4c94-98f6-612a6d83ba8d">
-<br><br>
+<img width="1139" alt="S1" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/53910a72-0c26-4cdb-acda-f4f60070b16b">
+<img width="1142" alt="S2" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/8f2f59cf-16e3-4880-b38e-4c5b6eac6be7">
+
 
 
 ### In the spring-cashier Deployment Pods showing healthy
-<img width="1142" alt="Screenshot 2023-05-22 at 9 27 06 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/7aa26c35-81a1-4e1a-85c2-d87e673a59b9">
+<img width="1142" alt="WD1" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/b30433f8-84b3-4701-a738-c6ce0e8ec51a">
 <br><br>
 
 ### RabbitMQ with Load Balacner with Public LB IP address
-<img width="1141" alt="Screenshot 2023-05-22 at 9 27 23 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/24347385-26e1-44cd-82f6-e8a37de4a2d8">
-<img width="1136" alt="Screenshot 2023-05-22 at 9 27 37 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/5a716ed6-ea3e-4dcf-bfb9-67ff7359d9eb">
+<img width="1141" alt="R1" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/42ccaff1-3103-4e99-9691-8a734d0248e8">
+<img width="1136" alt="R2" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/f7699b0a-f3b2-4689-92e3-a7fcb6775148">
+
 
 <br><br>
 
 ### Connect to Backend MySQL Database and show all tables in your MySQL DB
-<img width="1136" alt="Screenshot 2023-05-22 at 9 34 26 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/47c98cb2-a07f-4e84-b188-78688d20f052">
+<img width="1136" alt="Q1" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/2a0575a3-cbdb-4fc9-a5da-b3894c04321c">
 <br><br>
 
 ### spring-cashier Login Page with Load Balacner 
-<img width="1139" alt="Screenshot 2023-05-22 at 9 28 18 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/eae6b91a-0169-4c03-b6c1-e37cc157157a">
-<img width="1142" alt="Screenshot 2023-05-22 at 9 29 14 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/183b6dba-72bc-405b-93ec-ac5f05620f3b">
-<img width="1135" alt="Screenshot 2023-05-22 at 9 29 45 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/c61e7384-2d46-4a46-960f-dd353fa77ba3">
+<img width="1139" alt="LD" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/6295dd19-ada3-4907-add0-f926f335d686">
+<img width="1142" alt="D0" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/08b5d85a-fee9-43b1-b1d4-f93afd33b3ab">
+<img width="1135" alt="D1" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/773a91c3-4f74-419a-b560-44ae148f131d">
+
 <br><br>
 
 ### user info saved in DB
-<img width="1145" alt="Screenshot 2023-05-22 at 9 34 42 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/d73ed0cc-26ff-4661-9dd8-ef415286e0c4">
+<img width="1140" alt="D2" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/896ac973-d0a0-45e1-b38a-00cd6b4b2ce4">
 <br><br>
-<img width="1140" alt="Screenshot 2023-05-22 at 9 34 56 PM" src="https://github.com/nguyensjsu/cmpe172-jj904/assets/57935131/65821f5a-62c1-4cae-bac1-e70589c8bfd2">
-
+<img width="1145" alt="Q2" src="https://github.com/jj904/Spring-MVC-App/assets/57935131/d4f4fd98-ded0-41a4-9d1e-888a5bd90519">
 <br><br>
 
 ### spring-cashier Starbucks with Load Balacner
